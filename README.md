@@ -13,7 +13,7 @@ The App leverages the power of:
 *	Winston and Morgan:- For logging mechanism
 *	Redis:- For Scaling of Input/Ouput
 *	Mongoose:- For providing MongoDB a schema
-*   Embedded JavaScript:- For view rendering
+*   Embedded JavaScript (EJS):- For view rendering
 
 #Pre-requisites
 1. Latest version of Node.js installed
